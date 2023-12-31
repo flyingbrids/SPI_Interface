@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-module Fx3RegisterInterface
+module RegisterInterface
 #(      
      parameter    		   REG_DWIDTH = 32  
     ,parameter             REG_ALINES =  7 
